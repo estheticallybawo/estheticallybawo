@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D4D16AQHQWipjtO3XeQ/profile-displaybackgroundimage-shrink_350_1400/0/1712067347089?e=1726704000&v=beta&t=JcsjS6vySBg_yx98tGyRYbipKzUJ5nSDHrgjqaU-3I0)
+![MasterHead]([https://media.licdn.com/dms/image/D4D16AQHQWipjtO3XeQ/profile-displaybackgroundimage-shrink_350_1400/0/1712067347089?e=1726704000&v=beta&t=JcsjS6vySBg_yx98tGyRYbipKzUJ5nSDHrgjqaU-3I0](https://media.licdn.com/dms/image/D4D16AQEJOPKrfJlXww/profile-displaybackgroundimage-shrink_350_1400/0/1721868765838?e=1727308800&v=beta&t=nE8PpigS_MwtVQfwIwTxLuYe0tqXOo9289iLp8g9cNQ))
 <h1 align="center">Hi 👋, I'm Esther</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 
