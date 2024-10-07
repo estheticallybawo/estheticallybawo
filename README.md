@@ -8,7 +8,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 
-- 🌱 I’m currently learning **Next Js, Tailwind**
+- 🌱 I’m currently learning **React Native **
 
 - 💬 Ask me about **Frontend Technologies**
 
