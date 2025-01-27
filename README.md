@@ -1,4 +1,4 @@
-![Master](https://www.freepik.com/free-photo/glasses-lie-laptop-reflecting-light-from-screen-dark_174143190.htm#fromView=keyword&page=1&position=28&uuid=67d24946-b625-4672-aa95-4b7261e92681&query=Frontend+Developer+Banner)
+(![Master](https://github.com/user-attachments/assets/a7092bbb-0316-4c6a-9e02-40dd357a5be4)
 
 <h1 align="center">Hi 👋, I'm Esther</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
