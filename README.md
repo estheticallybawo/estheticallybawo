@@ -1,4 +1,4 @@
-(![Master](https://github.com/user-attachments/assets/a7092bbb-0316-4c6a-9e02-40dd357a5be4)
+![Master](https://github.com/user-attachments/assets/d472cd22-ffbe-4115-8c22-cdd3149ca505)
 
 <h1 align="center">Hi 👋, I'm Esther</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
