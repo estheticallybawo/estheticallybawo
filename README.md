@@ -1,4 +1,4 @@
-![Master](https://github.com/user-attachments/assets/30779274-9eba-42e0-89fd-46bb9345b7d2)
+![Master]([https://pin.it/5iWIcNHKK])
 
 <h1 align="center">Hi 👋, I'm Esther</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
