@@ -5,11 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=estheticallybawo&label=Profile%20views&color=0e75b6&style=flat" alt="estheticallybawo" /> </p>
 
-<p align="left"> <a href="https://twitter.com/bawotrilly" target="blank"><img src="https://img.shields.io/twitter/follow/bawotrilly?logo=twitter&style=for-the-badge" alt="bawotrilly" /></a> </p>
-
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 
-- 🌱 I’m currently learning **React Native **
+- 🌱 I’m currently mastering **React Native **
 
 - 💬 Ask me about **Frontend Tools**
 
