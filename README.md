@@ -1,4 +1,4 @@
-![Master]([https://pin.it/5iWIcNHKK])
+![Master](https://i.pinimg.com/1200x/13/73/84/137384837374a6fce402afc3cf406c91.jpg)
 
 <h1 align="center">Hi 👋, I'm Esther</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
